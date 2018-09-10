@@ -1,6 +1,5 @@
 package com.kuliao.oa.app.model;
 
-import org.slf4j.Logger;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
